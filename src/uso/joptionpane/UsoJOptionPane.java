@@ -9,7 +9,7 @@ public class UsoJOptionPane {
    
     public static void main(String[] args) {
         
-        
+        // Programa de uso JOptionPane
         float base, altura;
          
     String resposta = JOptionPane.showInputDialog("Base=");
@@ -22,6 +22,8 @@ public class UsoJOptionPane {
     
     JOptionPane.showMessageDialog(null,"Area="+base*altura/2);
     
+    System.out.println("CAMBIO");
+    /* Este es un comentario sin sentido alguno*/
     }
     
 }
