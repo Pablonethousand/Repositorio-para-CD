@@ -24,6 +24,129 @@ public class UsoJOptionPane {
     
     System.out.println("CAMBIO");
     /* Este es un comentario sin sentido alguno*/
+    
+    
+    //Me gusta comerle el rabo a yuki para poner celosa a yuno
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    JOptionPane.showMessageDialog(null,"YUKI");
+    
+    
+    
     }
     
 }
